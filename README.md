@@ -32,3 +32,11 @@ This software uses the same license that JuiceBot uses, and is licensed under th
 
 # How to use the code
 Fork it as much as you want! MilkBot is open-source, as a fork of JuiceBot. The most notable example is [Doughnut](https://github.com/DavidJoacaRo/doughnut/) (which is also a fork of JuiceBot that you should check out.)
+
+# Contributing to MilkBot
+As far as contributions go, the process is pretty lenient. All I ask if you want to contribute is that you have a moderate understanding of JavaScript (but I won't be hard on you), that you name your variables descriptively (or as descriptively as possible), and that you adhere to the "Allman" style of coding (that is, each brace on a separate line.)
+
+Here's a demonstration of what I mean, in regards to wrong and right:
+[Imgur](https://imgur.com/55tWm6U)
+
+
