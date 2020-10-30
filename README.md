@@ -39,4 +39,8 @@ As far as contributions go, the process is pretty lenient. All I ask if you want
 Here's a demonstration of what I mean, in regards to wrong and right:
 [Imgur](https://imgur.com/55tWm6U)
 
+Here's a demonstration of what I mean by specific variables:
+[Imgur](https://imgur.com/a/2IFG4pl)
+
+
 
